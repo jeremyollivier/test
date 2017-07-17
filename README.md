@@ -74,7 +74,7 @@ You can generate the software by:
 	- $ make
 
 
-How to use it?
+__How to use it?__
 
 This software allows you to read from and write into the URAMs.
 Do not forget to run ths software in sudo mode:
