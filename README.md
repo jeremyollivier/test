@@ -46,6 +46,7 @@ URAM Options | Max Cascade Height | URAMs Limitations
 2 | Max Cascade = 2 | Top 2 URAMs Prohibited (50% of URAMs ~ *400 URAMs available*)
 3 | Max Cascade = 3 | Top 1 URAM Prohibited (75% of URAMs ~ *600 URAMs available*)
 4 | No Cascade | All URAMs Enabled (100% of URAMs ~ *800 URAMs available*)
+
 *Please note that the options start from 2 to 4 incuded*
 
 <a name="runme"></a>
