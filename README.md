@@ -73,7 +73,9 @@ You can generate the software by:
 - Build the SW using the Makefile
 	- $ make
 
+
 How to use it?
+
 This software allows you to read from and write into the URAMs.
 Do not forget to run ths software in sudo mode:
 - sudo ./uram_example
