@@ -58,12 +58,13 @@ You can run this design like the other examples designs by:
 - cd into hdk/cl/examples/cl\_uram\_example
 - $ export CL\_DIR=$(pwd)
 - cd into $CL\_DIR/build/scripts
-- Option 2:
-	- $ ./aws\_build\_dcp\_from\_cl.sh -uram\_option 2
-- Option 3:
-	- $ ./aws\_build\_dcp\_from\_cl.sh -uram\_option 3
-- Option 4:
-	- $ ./aws\_build\_dcp\_from\_cl.sh -uram\_option 4
+- by:
+	- Option 2:
+		- $ ./aws\_build\_dcp\_from\_cl.sh -uram\_option 2
+	- Option 3:
+		- $ ./aws\_build\_dcp\_from\_cl.sh -uram\_option 3
+	- Option 4:
+		- $ ./aws\_build\_dcp\_from\_cl.sh -uram\_option 4
 
 ### Software
 You can generate the software by:
